@@ -1,16 +1,41 @@
-# estreaming
+# 🎯 eStreaming
+« Application d'émissions de streaming » vise comme objectif de créer une application mobile Flutter qui affiche une liste d'émissions de streaming avec des détails sur chaque émission.
+C'est une application Flutter moderne et intuitive, conçue pour offrir une expérience fluide et agréable.  
+Ce projet met en œuvre les bonnes pratiques du développement mobile avec un design épuré et des fonctionnalités performantes.
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🖼️ Aperçu du Projet
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="assets/images/accueil.PNG " width="250" alt="Capture 1"/>
+  <img src="assets/images/beninrevele.PNG" width="250" alt="Capture 3"/>
+  <img src="assets/images/documentaires.PNG" width="250" alt="Capture 2"/>
+  <img src="assets/images/aucoeurvodoun.PNG" width="250" alt="Capture 3"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+> *Aperçu rapide de l’interface principale, du menu et des écrans clés de l’application.*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Fonctionnalités principales
+
+- 📱 Interface responsive et fluide
+- 📱 Accueil: présente la grille des émissions de façon esthétique
+- 📱 Détail  de chaque émission: présente les détails de chaque émission
+- 🔍 Barre de recherche fonctionnelle  [à venir ] 
+- 🗂️ Catégorisation dynamique des éléments [à venir ]
+- ⭐ Gestion des favoris [à venir ]
+- 🌙 Thème clair / sombre  [à venir ]
+- 🔔 Système de notifications intégré [à venir ]
+
+---
+
+## ⚙️ Installation & Exécution
+
+### 1️⃣ Cloner le dépôt
+
+git clone https://github.com/elegbede01/estreaming.git 
+
+### 2️⃣ Se déplacer dans le projet 
+2️⃣ Se déplacer dans le projet
