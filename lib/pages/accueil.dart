@@ -275,7 +275,7 @@ class PartieGrilleImage extends StatelessWidget {
         ),
         IdentificationStreaming(
           tagStream: 'stream8',
-          imageStream: 'assets/images/emission1.jpeg',
+          imageStream: 'assets/images/dantokpa.jpeg',
           nomStream: 'Matin Libre',
           chaineRadio: 'Canal 3 Radio',
         ),
