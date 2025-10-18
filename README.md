@@ -11,7 +11,9 @@ C'est une application Flutter moderne et intuitive, conçue pour offrir une exp�
   <img src="assets/images/accueil.PNG " width="250" alt="Capture 1"/>
   <img src="assets/images/beninrevele.PNG" width="250" alt="Capture 3"/>
   <img src="assets/images/documentaires.PNG" width="250" alt="Capture 2"/>
-  <img src="assets/images/aucoeurvodoun.PNG" width="250" alt="Capture 3"/>
+  <img src="assets/images/aucoeurvodoun.PNG" width="250" alt="Capture 4"/>
+  <img src="assets/images/politik.PNG" width="250" alt="Capture 5"/>
+  <img src="assets/images/crepuscule.PNG" width="250" alt="Capture 6"/>
 </p>
 
 > *Aperçu rapide de l’interface principale, du menu et des écrans clés de l’application.*
